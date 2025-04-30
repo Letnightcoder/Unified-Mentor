@@ -2,7 +2,8 @@
 
 An interactive web-based calculator with advanced functionality and keyboard support.
 
-![Calculator Preview](calculator-preview.png)
+![Calculator Preview](https://github.com/user-attachments/assets/c6c28523-8f47-40d7-94ed-49e6672eb043)
+
 
 ## Features
 
