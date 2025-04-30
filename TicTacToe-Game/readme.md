@@ -2,6 +2,9 @@
 
 A modern, responsive web-based implementation of the classic Tic Tac Toe game built with HTML, CSS and JavaScript.
 
+![Tic Tac Toe](https://github.com/user-attachments/assets/c2eceeb8-7686-4a73-9291-e5969feb976a)
+
+
 ## Features
 
 - Clean, modern UI with responsive design
