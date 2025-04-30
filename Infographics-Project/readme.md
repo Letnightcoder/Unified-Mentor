@@ -2,6 +2,9 @@
 
 An interactive visualization showing temperature changes from 1880 to 2020.
 
+![image](https://github.com/user-attachments/assets/c578c5f9-caf5-45c9-97fa-3fb2f5e2418a)
+
+
 ## How to View
 
 1. Open [index.html](Infographics-Project/index.html) in a modern web browser
