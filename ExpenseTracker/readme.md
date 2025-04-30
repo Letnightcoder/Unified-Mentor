@@ -2,6 +2,9 @@
 
 A web-based expense tracking application that helps users manage their income and expenses with visual analytics.
 
+![Expense Tracker](https://github.com/user-attachments/assets/cf11eeaf-0b87-4ca8-a2e6-bff6ef73ad3c)
+
+
 ## Features
 
 - Add and track income/expense transactions
